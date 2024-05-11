@@ -1,0 +1,1 @@
+It is a platform where users can buy, sell or exchange their books as well as questions. At the same time, it can be used as a educational hub for educational meterials on subscription basis.Other then that it can be used as a social platform.
