@@ -1,0 +1,1 @@
+font-weight: thick;"><a href="test.php" class="brand-logo brand-text"> BOIWALA</a></h1>

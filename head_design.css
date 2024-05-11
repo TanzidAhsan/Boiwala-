@@ -1,0 +1,17 @@
+*{
+    font-family: 'Antonio', sans-serif;
+font-family: 'Heebo', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+
+
+
+.move{
+   position: relative;
+   left: 1400px;
+   height: 100px;
+   width: 100px;
+   bottom: 82px;
+}
